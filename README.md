@@ -15,7 +15,7 @@ Se conforma de un Menu Principal:
      4 - Lista de Autores vivos en determinado año
      5 - Lista de libros por Idioma
 
-  La búsqueda por Menu desplegará un sub Menu de busqueda con idiomas a consultar.
+  La búsqueda por Idioma desplegará un sub Menu de busqueda con idiomas a consultar.
 
   Una consideración importante, en la documentación https://gutendex.com/, en la opción:
       search
